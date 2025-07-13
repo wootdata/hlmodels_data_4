@@ -1,0 +1,6 @@
+name: Mahavishnu
+skin: hulkhogan
+email: ken@jeffsikes.com
+
+This was my first attempt at making a skin. I was just trying to see if I could do it
+and it turned out pretty good.
