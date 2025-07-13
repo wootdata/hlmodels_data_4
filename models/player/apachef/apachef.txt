@@ -1,0 +1,8 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : apachef
+Source Model Hash : e60364998efdb2236da6fcecd17acf4d
+Ported Model Name : apachef_v1sc
+Ported Model Hash : e60364998efdb2236da6fcecd17acf4d
+Port Date         : 2025/07/12
