@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -101,6 +102,7 @@
 			"type": 8
 		}
 	],
+	"date": 1632422181,
 	"events": [
 		{
 			"event": 2001,
@@ -210,7 +212,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6829d20e982a14e03f84ecac254ca63b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Danara\\Desktop\\vtuber_kizuna_ld_v3\\vtuber_kizuna_ld_v3.",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

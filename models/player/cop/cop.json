@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 948046794,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c80425e4f99fa6486d3969fa49bc911d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/barney/barney.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

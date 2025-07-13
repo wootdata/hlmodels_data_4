@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -80,6 +81,7 @@
 			"type": 8
 		}
 	],
+	"date": 1048423822,
 	"events": [
 		{
 			"event": 2001,
@@ -189,7 +191,11 @@
 	],
 	"id": 1414743113,
 	"md5": "523e8de32855327a69692978fc0aa9ff",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dm_colette.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -133,6 +133,7 @@
 			"name": "gatiito_sc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -167,6 +168,7 @@
 			"type": 8
 		}
 	],
+	"date": 1627071038,
 	"events": [
 		{
 			"event": 2001,
@@ -276,7 +278,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ddb7427eb05cff60586c98bfbe0ac626",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "yui.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

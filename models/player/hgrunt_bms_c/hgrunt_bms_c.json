@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1519105203,
 	"events": [
 		{
 			"event": 2001,
@@ -181,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "83c692d19983305931b6d5d756def6a5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\ELIZABETH MENA\\Favorites\\Desktop\\hgrunt\\Hgrunt.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

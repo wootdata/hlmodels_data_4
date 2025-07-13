@@ -48,6 +48,7 @@
 			"name": "dress"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -90,6 +91,7 @@
 			"type": 32
 		}
 	],
+	"date": 1561583616,
 	"events": [
 		{
 			"event": 2001,
@@ -437,7 +439,11 @@
 	],
 	"id": 1414743113,
 	"md5": "34a0428b914c9eef1aa36978598385b8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "jess_princess.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
