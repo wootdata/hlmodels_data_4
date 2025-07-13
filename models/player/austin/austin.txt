@@ -1,0 +1,24 @@
+Model name:  Austin Powers
+Author:      Manga Man
+Released:    9th August 2000
+
+........................................
+
+This is my first ever attempt at any kind of character design so there are still many things that could be changed to improve this model. As you can see I designed it around the Austin Powers character from the movie Austin Powers. I have based the actual design around the provided screenshot (jpeg picture).
+
+The character has 698 polygons and uses 2 textures, one at 320 x 272 and the other 140 x 112 (I understand that these are not standard texture sizes but I was not aware of this until after I had textured the model, I may go back and re-texture him, it depends on how long it would take). The areas that still bug me are above the top of the head, where some texture stretching occurs, and that the legs move through his jacket slightly when he walks. I may go on to add some animations, again time is a constraint as I will be starting University soon and I may not be able to continue the project.
+
+
+The model was created in 3D Studio Max 3 and the textures in Photoshop 5.5. It took around 3 days to produce from the ground up.
+
+All in all I am pretty pleased with it, I am happy with the proportions and feel that the 'groovy' outfit works quite well. I hope you like it!
+
+Please remember this is my first attempt and I am still learning ^_^
+
+
+Edward Sargeant aka 'Manga Man'
+
+........................................
+
+E-mail:   esargeant@mangaman.freeserve.co.uk
+Web:      http://www.mangaman.freeserve.co.uk
