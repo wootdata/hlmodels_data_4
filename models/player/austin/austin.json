@@ -175,6 +175,7 @@
 	"md5": "8dd959eedb315e01d6d8f3ecacb937ff",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/austin/austin.mdl",
 	"preview": true,
 	"readme": true,

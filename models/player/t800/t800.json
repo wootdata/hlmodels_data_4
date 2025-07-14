@@ -175,6 +175,7 @@
 	"md5": "c114844d0b02b12e6a0c054f2361710f",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/t800/t800.mdl",
 	"preview": true,
 	"readme": false,

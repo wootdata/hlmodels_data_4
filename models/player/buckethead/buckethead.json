@@ -180,6 +180,7 @@
 	"md5": "cb92c18aff37db645e9425a063ff6a98",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/Scientist/buckethead.mdl",
 	"preview": true,
 	"readme": false,

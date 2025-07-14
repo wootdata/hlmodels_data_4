@@ -180,6 +180,7 @@
 	"md5": "aef29daddec24290eff507c29fd8ca1a",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player\\cmodels\\neu\\neu.mdl",
 	"preview": true,
 	"readme": false,

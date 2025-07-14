@@ -180,6 +180,7 @@
 	"md5": "767a6d41cfb371932a136a20f6ca713f",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/cures/cures.mdl",
 	"preview": true,
 	"readme": false,

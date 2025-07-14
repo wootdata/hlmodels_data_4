@@ -183,6 +183,7 @@
 	"md5": "6ccf6cebe6bbbc656df23c780df4ef57",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "./sheriff/sheriff.mdl",
 	"preview": true,
 	"readme": false,

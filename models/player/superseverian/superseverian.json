@@ -175,6 +175,7 @@
 	"md5": "828025a043be640448ebbf7d63ecba00",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve\\models\\player\\ThorOfAsgard\\ThorOfAsgard.mdl",
 	"preview": true,
 	"readme": false,

@@ -175,6 +175,7 @@
 	"md5": "d3ee180496e6ecbc07988e7f39919c2b",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/cockroach_smooth/cockroach_smooth.mdl",
 	"preview": true,
 	"readme": false,
