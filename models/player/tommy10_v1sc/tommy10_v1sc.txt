@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tommy10
+Source Model Hash : fe1b166ddc1c1280b28103009cd80bd5
+Source Model Date : 1715344003 (2024/05/10)
+
+Ported Model Name : tommy10_v1sc
+Ported Model Hash : eaf2b5662dd440710f5136a64a75f426
+Ported Model Date : 1752492427 (2025/07/14)

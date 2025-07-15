@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pedrocastillo_tc
+Source Model Hash : b30fecde95cb599a73b31fc86a6ede4b
+Source Model Date : 1654720149 (2022/06/08)
+
+Ported Model Name : pedrocastillo_tc_v1sc
+Ported Model Hash : 08be3ba3093e707debcd79aaa22ae423
+Ported Model Date : 1752492153 (2025/07/14)

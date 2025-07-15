@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_charlotte_vo
+Source Model Hash : 7861589642d179ec679020b9375ec875
+Source Model Date : 1700169354 (2023/11/16)
+
+Ported Model Name : gi_charlotte_vo_v1sc
+Ported Model Hash : bb76d379beeb959b64d27c67cdb688af
+Ported Model Date : 1752491706 (2025/07/14)

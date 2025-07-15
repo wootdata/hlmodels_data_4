@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : badtaste_v2
+Source Model Hash : 3f16892e124910d83c1d853371871bb7
+Source Model Date : 1583585790 (2020/03/07)
+
+Ported Model Name : badtaste_v2sc
+Ported Model Hash : 4e0c1e880b8a12572d35026855698a80
+Ported Model Date : 1752491397 (2025/07/14)

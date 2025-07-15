@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sbo_hunted_v2
+Source Model Hash : 652521b280344e039dedf21a294610aa
+Source Model Date : 1583733770 (2020/03/08)
+
+Ported Model Name : sbo_hunted_v2sc
+Ported Model Hash : 9370c9bcf8475aba24e6ba2ef32ae0c4
+Ported Model Date : 1752492242 (2025/07/14)

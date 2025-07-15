@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : catsun_v2
+Source Model Hash : dc0f9f2da599e3a3b1f9b69ade86a5e6
+Source Model Date : 1582974936 (2020/02/29)
+
+Ported Model Name : catsun_v2sc
+Ported Model Hash : 0173569ca0ebbb026fdbd2f6e6a8481f
+Ported Model Date : 1752491464 (2025/07/14)

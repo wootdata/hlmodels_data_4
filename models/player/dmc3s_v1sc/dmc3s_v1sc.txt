@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dmc3s
+Source Model Hash : 961ff72f119991f3b801c41b022ea780
+Source Model Date : 1236523746 (2009/03/08)
+
+Ported Model Name : dmc3s_v1sc
+Ported Model Hash : b93abd234967d8270e873940da9cba42
+Ported Model Date : 1752491602 (2025/07/14)

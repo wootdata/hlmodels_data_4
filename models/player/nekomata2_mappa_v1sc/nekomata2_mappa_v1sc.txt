@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nekomata2_mappa
+Source Model Hash : 5bf0a7ca0f3248d9894f6c24b9888d51
+Source Model Date : 1261529636 (2009/12/22)
+
+Ported Model Name : nekomata2_mappa_v1sc
+Ported Model Hash : 4a3089bf1f5bba71e8657a701688cf04
+Ported Model Date : 1752492078 (2025/07/14)

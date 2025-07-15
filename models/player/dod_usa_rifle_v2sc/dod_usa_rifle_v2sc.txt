@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dod_american_rifle_v2
+Source Model Hash : b04870c1cb8bc31d2635b2926c09dd1a
+Source Model Date : 1626344171 (2021/07/15)
+
+Ported Model Name : dod_usa_rifle_v2sc
+Ported Model Hash : e04a59cab1eabe586b4493a925da271a
+Ported Model Date : 1752491611 (2025/07/14)

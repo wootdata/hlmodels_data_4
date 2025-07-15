@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : c-r-o-w
+Source Model Hash : 4fba50d77314b6d01d7a64cc3e70e6a4
+Source Model Date : 1582977015 (2020/02/29)
+
+Ported Model Name : c-r-o-w_v1sc
+Ported Model Hash : 51719088a7c2d8aab31095fa5e6a5acb
+Ported Model Date : 1752491457 (2025/07/14)

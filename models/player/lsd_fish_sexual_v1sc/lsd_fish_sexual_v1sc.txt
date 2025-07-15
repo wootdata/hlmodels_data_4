@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lsd_fish_sexual
+Source Model Hash : 6e31b8d8b828578659c14df8b5ac0b9a
+Source Model Date : 1653551504 (2022/05/26)
+
+Ported Model Name : lsd_fish_sexual_v1sc
+Ported Model Hash : 98aafe387467f0d9fdc3502a3efac017
+Ported Model Date : 1752491966 (2025/07/14)

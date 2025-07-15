@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : furry_maid_3_v2
+Source Model Hash : e627761218124709428577c6aab4913b
+Source Model Date : 1563798187 (2019/07/22)
+
+Ported Model Name : furry_maid_3_v2sc
+Ported Model Hash : 827308ddff43b77c2d07fe4f61b6cd2c
+Ported Model Date : 1752491664 (2025/07/14)

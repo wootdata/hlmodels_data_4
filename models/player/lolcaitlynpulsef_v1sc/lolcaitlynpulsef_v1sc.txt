@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lolcaitlynpulsefire
+Source Model Hash : 2b7a83454928ed8dcd9590b58776c86c
+Source Model Date : 1618907539 (2021/04/20)
+
+Ported Model Name : lolcaitlynpulsef_v1sc
+Ported Model Hash : 63f73e3db42c8cee301737f2a83c4e2d
+Ported Model Date : 1752491956 (2025/07/14)

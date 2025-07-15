@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : g_gintoki
+Source Model Hash : 69b61855a4520d62a97845d52e1cecaa
+Source Model Date : 1641406587 (2022/01/05)
+
+Ported Model Name : g_gintoki_v1sc
+Ported Model Hash : 91cef255950dae950ea64a344e969ac6
+Ported Model Date : 1752491762 (2025/07/14)

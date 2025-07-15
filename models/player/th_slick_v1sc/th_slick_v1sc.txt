@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : th_slick
+Source Model Hash : 627fda4a79517be8b684aa6f7969e64f
+Source Model Date : 1579696462 (2020/01/22)
+
+Ported Model Name : th_slick_v1sc
+Ported Model Hash : 9a752faddc93996aedc5373c83735503
+Ported Model Date : 1752492421 (2025/07/14)

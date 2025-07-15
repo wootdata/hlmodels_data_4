@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : digitals_v2
+Source Model Hash : 6b23c6aafa29e8e6c6898185f4b7262d
+Source Model Date : 1583565346 (2020/03/06)
+
+Ported Model Name : digitals_v2sc
+Ported Model Hash : a2e17b8d36cfa45433629f2c9db0246d
+Ported Model Date : 1752491598 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : soulcalibur_taki
+Source Model Hash : 8d1535c6f76cbb520cc85296faef2ab7
+Source Model Date : 1466149966 (2016/06/17)
+
+Ported Model Name : soulcalibur_taki_v1sc
+Ported Model Hash : 89564733dc0cd534c8ee33ec6d7dd3e9
+Ported Model Date : 1752492297 (2025/07/14)

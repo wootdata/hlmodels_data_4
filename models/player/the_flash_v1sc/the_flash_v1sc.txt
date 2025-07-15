@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : the_flash
+Source Model Hash : 1380e5b5c832fe9b04787861b7b5f61d
+Source Model Date : 1267352799 (2010/02/28)
+
+Ported Model Name : the_flash_v1sc
+Ported Model Hash : e29b35258b05daacf5fde65933b34add
+Ported Model Date : 1752492412 (2025/07/14)

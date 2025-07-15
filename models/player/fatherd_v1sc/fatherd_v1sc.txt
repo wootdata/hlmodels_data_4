@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fatherd
+Source Model Hash : e91eac5fe71dffd6ed21821f1c3af016
+Source Model Date : 1263577140 (2010/01/15)
+
+Ported Model Name : fatherd_v1sc
+Ported Model Hash : dfd76fb2dd8e88edcb904eab7223c5bd
+Ported Model Date : 1752491646 (2025/07/14)

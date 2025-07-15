@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ll_nico_yazawa_v2
+Source Model Hash : 15e998c1c0524536e3daafc9b0a1b203
+Source Model Date : 1702480616 (2023/12/13)
+
+Ported Model Name : ll_nico_yazawa_v2sc
+Ported Model Hash : cef0eb1653731e3d7815ab3d3670daa9
+Ported Model Date : 1752491955 (2025/07/14)

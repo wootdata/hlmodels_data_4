@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : michael-jackson
+Source Model Hash : a3669d0ad4184750a5248ded5d9e8ce2
+Source Model Date : 1472477792 (2016/08/29)
+
+Ported Model Name : michael-jackson_v1sc
+Ported Model Hash : 97b15394bd2ab22db5f728a16abf2d95
+Ported Model Date : 1752492014 (2025/07/14)

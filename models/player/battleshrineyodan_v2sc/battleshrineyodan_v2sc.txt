@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : battleshrineyodan_v2
+Source Model Hash : 86685ac7fe0ed5ef4e07418bf1fc6c90
+Source Model Date : 1583482180 (2020/03/06)
+
+Ported Model Name : battleshrineyodan_v2sc
+Ported Model Hash : 3c42490dcaa000ec3290d40de4af4765
+Ported Model Date : 1752491405 (2025/07/14)

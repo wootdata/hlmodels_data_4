@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_reisen
+Source Model Hash : 72e43931a1444060548b1121bd5a1312
+Source Model Date : 1542225506 (2018/11/14)
+
+Ported Model Name : 2d_reisen_v1sc
+Ported Model Hash : 24a722f801aa69b3d35b1964459cf84d
+Ported Model Date : 1752491318 (2025/07/14)

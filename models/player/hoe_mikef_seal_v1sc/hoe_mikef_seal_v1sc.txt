@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hoe_mikeforce_seal
+Source Model Hash : 068d81295dc593a20ebcc0c2f0bd90a0
+Source Model Date : 1236541996 (2009/03/08)
+
+Ported Model Name : hoe_mikef_seal_v1sc
+Ported Model Hash : 9cd07872b3f1b5e4c5e5b45ecd226a69
+Ported Model Date : 1752491811 (2025/07/14)

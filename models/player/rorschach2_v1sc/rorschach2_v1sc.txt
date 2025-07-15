@@ -1,0 +1,35 @@
+Rorschach from the WATCHMEN graphic novel.
+------------------------------------------
+
+If you have read Watchmen, you will know
+that Rorschach is pretty much the most 
+badass dude ever. If you arent a big comic
+person, the movie should be out next year.
+
+Model:     Harry
+Texture:   Harry
+Anims:     TS team +enix?
+
+The anims are stolen shamelessly from the
+grey fox model, and from what i can tell,
+Enix did those. If i'm wrong, contact me.
+
+Visit Harryforum at 
+www.harrysite.net
+
+<3 harry
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rorschach2
+Source Model Hash : 322454bc8000fd59dc63a61d078bbc86
+Source Model Date : 1466428612 (2016/06/20)
+
+Ported Model Name : rorschach2_v1sc
+Ported Model Hash : c26d1f1b93eb54fe750167077c95a359
+Ported Model Date : 1752492221 (2025/07/14)

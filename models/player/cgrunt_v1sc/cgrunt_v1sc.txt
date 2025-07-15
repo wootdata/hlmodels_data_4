@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cgrunt
+Source Model Hash : 1293ae01a7887edd5665a3a32bbdc251
+Source Model Date : 1284596312 (2010/09/15)
+
+Ported Model Name : cgrunt_v1sc
+Ported Model Hash : 082ac0eab17c323c36fd05ce1f789008
+Ported Model Date : 1752491466 (2025/07/14)

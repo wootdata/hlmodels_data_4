@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : el_chavo
+Source Model Hash : 21ecc78f69a787120427691e04d5a707
+Source Model Date : 1642893223 (2022/01/22)
+
+Ported Model Name : el_chavo_v1sc
+Ported Model Hash : 40e9bb8fcaa09e09626408a5839a9e8d
+Ported Model Date : 1752491633 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nva-rpdgunner
+Source Model Hash : abeed87cbd21bae1589633b899381f64
+Source Model Date : 1265656191 (2010/02/08)
+
+Ported Model Name : nva-rpdgunner_v1sc
+Ported Model Hash : 41d790c119eb1b09724182ed3c97163c
+Ported Model Date : 1752492107 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : riotgrrrl_v2
+Source Model Hash : a3e4f0a9202eaf29958bce67234f296f
+Source Model Date : 1583378616 (2020/03/04)
+
+Ported Model Name : riotgrrrl_v2sc
+Ported Model Hash : 777c1261bda9d8e635c16b54bfb0003b
+Ported Model Date : 1752492217 (2025/07/14)

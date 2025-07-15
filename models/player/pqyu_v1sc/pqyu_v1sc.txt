@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pqyu
+Source Model Hash : a1478e3e6ee2f7caf6ac6d18b862ccbb
+Source Model Date : 1569870612 (2019/09/30)
+
+Ported Model Name : pqyu_v1sc
+Ported Model Hash : fa19348e50146d0d2ceadff4fe31d6e1
+Ported Model Date : 1752492167 (2025/07/14)

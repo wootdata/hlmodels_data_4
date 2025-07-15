@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sandman
+Source Model Hash : 33fa9768d19a904366577671954c40f5
+Source Model Date : 1269690989 (2010/03/27)
+
+Ported Model Name : sandman_v1sc
+Ported Model Hash : dbe41771c11f32f1e08522d8ab4095cb
+Ported Model Date : 1752492234 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fp_arathorn2017
+Source Model Hash : b2a6fccac7f2a1f1da2dbdceedb55873
+Source Model Date : 1497500081 (2017/06/14)
+
+Ported Model Name : fp_arathorn2017_v1sc
+Ported Model Hash : 0e1592b1117daee3783fbc6a25c68baa
+Ported Model Date : 1752491657 (2025/07/14)

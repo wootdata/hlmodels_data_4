@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lucas
+Source Model Hash : 1252e5dd342bb94d4c8f11d080d00bad
+Source Model Date : 1580013787 (2020/01/25)
+
+Ported Model Name : lucas_v1sc
+Ported Model Hash : 154232c3813def313d16c95633c858d4
+Ported Model Date : 1752491972 (2025/07/14)

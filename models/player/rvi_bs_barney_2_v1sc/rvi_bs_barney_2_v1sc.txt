@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rvi_bs_barney_2
+Source Model Hash : 0b72808ce0873383d9c357ec55b6097a
+Source Model Date : 1650248046 (2022/04/17)
+
+Ported Model Name : rvi_bs_barney_2_v1sc
+Ported Model Hash : 4243b2721b9d3ffab71c7a0edacb1a5f
+Ported Model Date : 1752492226 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stalker_hood2
+Source Model Hash : ab927190f563b5b98825421c263d2311
+Source Model Date : 1456809020 (2016/02/29)
+
+Ported Model Name : stalker_hood2_v1sc
+Ported Model Hash : 849665e4b14460f66303d3417f328fd4
+Ported Model Date : 1752492334 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_shadow-3_armor_v2
+Source Model Hash : e52ee742dc9ed2204728da6fae758c01
+Source Model Date : 1661806761 (2022/08/29)
+
+Ported Model Name : tac_shadow-3_arm_v2sc
+Ported Model Hash : dc126750bd9df8d4ae72e28bcafc52c3
+Ported Model Date : 1752492377 (2025/07/14)

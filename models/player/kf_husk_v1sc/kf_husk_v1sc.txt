@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kf_husk
+Source Model Hash : 2d031da59d5916d662cf329c7322f107
+Source Model Date : 1579696049 (2020/01/22)
+
+Ported Model Name : kf_husk_v1sc
+Ported Model Hash : e718d851a274c822200a2415730c83a9
+Ported Model Date : 1752491884 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ahl_suave
+Source Model Hash : 3896f4463ae88532a3e14494424bc002
+Source Model Date : 1700907396 (2023/11/25)
+
+Ported Model Name : ahl_suave_v1sc
+Ported Model Hash : e91677be2322a522d5ff18854fdefe8c
+Ported Model Date : 1752491345 (2025/07/14)

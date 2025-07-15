@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : momiji
+Source Model Hash : 3dc56af2dbaff8f42247a6e7225da3c9
+Source Model Date : 1699530371 (2023/11/09)
+
+Ported Model Name : momiji_v1sc
+Ported Model Hash : 501584d23de7c207749fad0bc50bdde7
+Ported Model Date : 1752492038 (2025/07/14)

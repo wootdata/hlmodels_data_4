@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nekomimi_casino_v2
+Source Model Hash : 6d1bfafab7832c2ac732ab93a0224fa2
+Source Model Date : 1583448230 (2020/03/05)
+
+Ported Model Name : nekomimi_casino_v2sc
+Ported Model Hash : bb629247f23159c10351ad0aef6b1e45
+Ported Model Date : 1752492082 (2025/07/14)

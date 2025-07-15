@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fnv_riotranger_v2
+Source Model Hash : 428bdf8965c8b496908243d4946843b8
+Source Model Date : 1592234248 (2020/06/15)
+
+Ported Model Name : fnv_riotranger_v2sc
+Ported Model Hash : 1e933e9b38789568ff290397753b2701
+Ported Model Date : 1752491654 (2025/07/14)

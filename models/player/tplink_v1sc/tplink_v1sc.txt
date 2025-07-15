@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tplink
+Source Model Hash : 083995621c8e71ddd9cc077b90653881
+Source Model Date : 1267638996 (2010/03/03)
+
+Ported Model Name : tplink_v1sc
+Ported Model Hash : eb00c3d930acdb4cced78973f5f2ee25
+Ported Model Date : 1752492456 (2025/07/14)

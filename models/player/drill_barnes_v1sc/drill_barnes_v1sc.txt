@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : drill_barnes
+Source Model Hash : 83f7a06db872fceff0ef914ca825d6bf
+Source Model Date : 1509053064 (2017/10/26)
+
+Ported Model Name : drill_barnes_v1sc
+Ported Model Hash : e23c22448a0f1a995c6151eff2dbd650
+Ported Model Date : 1752491622 (2025/07/14)

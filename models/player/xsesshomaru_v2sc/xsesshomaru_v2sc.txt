@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : xsesshomaru_v2
+Source Model Hash : 12c8a902e11e4fdf7b41763fd80dc31d
+Source Model Date : 1522547656 (2018/03/31)
+
+Ported Model Name : xsesshomaru_v2sc
+Ported Model Hash : a799a45585d35482fca12443de6c3a6b
+Ported Model Date : 1752492517 (2025/07/14)

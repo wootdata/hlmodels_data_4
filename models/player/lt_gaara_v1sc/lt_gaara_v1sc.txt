@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lt_gaara
+Source Model Hash : d2c64d74f0c115918b0f273aa6ffd3bf
+Source Model Date : 1622850338 (2021/06/04)
+
+Ported Model Name : lt_gaara_v1sc
+Ported Model Hash : ba7346715db7a37821ea38858abed2fe
+Ported Model Date : 1752491968 (2025/07/14)

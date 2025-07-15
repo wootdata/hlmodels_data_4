@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : urbanpanzer
+Source Model Hash : 7cd047911c5c13a5142a60448fc13a50
+Source Model Date : 1357197740 (2013/01/02)
+
+Ported Model Name : urbanpanzer_v1sc
+Ported Model Hash : a22cb2adc75385052f5d5aff22a30058
+Ported Model Date : 1752492480 (2025/07/14)

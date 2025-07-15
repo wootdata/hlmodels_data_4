@@ -1,0 +1,26 @@
+Put the files in a directory called "Blur" in 
+your models/player directory.
+
+I made this model in 2 hours.
+
+If you have any comments, just mail them to:
+macey@teleport.com
+
+Macey AKA TubMaster-[UFO]
+
+		-SEA YA
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : blur_v2
+Source Model Hash : b8134a2ede710cce1bf38c6db443fa0e
+Source Model Date : 1582892301 (2020/02/28)
+
+Ported Model Name : blur_v2sc
+Ported Model Hash : e15e4371641045061c56caa849ecef11
+Ported Model Date : 1752491438 (2025/07/14)

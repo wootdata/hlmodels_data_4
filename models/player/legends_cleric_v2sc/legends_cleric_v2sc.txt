@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : legends_cleric_v2
+Source Model Hash : 2dbef9a03a93a974c7388a25cb58f06f
+Source Model Date : 1583651614 (2020/03/07)
+
+Ported Model Name : legends_cleric_v2sc
+Ported Model Hash : 331494feb8db46d8e2807040103ec3b7
+Ported Model Date : 1752491945 (2025/07/14)

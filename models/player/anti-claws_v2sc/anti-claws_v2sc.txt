@@ -1,0 +1,28 @@
+                        Anti-Claws
+
+This is one Santa you don't want cumming down your chimney!
+Just a remake of the santa model, Just for christmas.
+Hope you like it! 
+
+   
+INSTALLATION:  UNZIP INTO  halflife\valve\models\player\Anti-Claws  folder
+
+
+         FYA    MARQUIS  (m.haly@cwcom.net) 13/12/00
+            
+            http://www.hlskins.free-online.co.uk/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : anti-claws_v2
+Source Model Hash : 4efc0e9f41ab541b780d0b6ce6b743eb
+Source Model Date : 1590441441 (2020/05/25)
+
+Ported Model Name : anti-claws_v2sc
+Ported Model Hash : 03f1828f30ef4d3b37705e127799368d
+Ported Model Date : 1752491363 (2025/07/14)

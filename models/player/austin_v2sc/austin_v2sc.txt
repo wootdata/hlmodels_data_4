@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : austin_v2
+Source Model Hash : 14a9dd9a6a8288c00fb016d53f4f41bb
+Source Model Date : 1590622386 (2020/05/27)
+
+Ported Model Name : austin_v2sc
+Ported Model Hash : f23c23ba81c0da17bbcd2820f128770b
+Ported Model Date : 1752491388 (2025/07/14)

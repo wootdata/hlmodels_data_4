@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : oldgordon_suitfixed
+Source Model Hash : 524f797e9243d4425d7a93784aa2de32
+Source Model Date : 1648681783 (2022/03/30)
+
+Ported Model Name : oldgordon_suit2_v1sc
+Ported Model Hash : 45e7034df315fdd13ba0804079248003
+Ported Model Date : 1752492115 (2025/07/14)

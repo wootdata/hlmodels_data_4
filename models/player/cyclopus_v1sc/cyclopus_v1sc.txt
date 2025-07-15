@@ -1,0 +1,17 @@
+made_by_winkler
+The Specialists mod
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cyclopus
+Source Model Hash : bf79eed259226d921f9b5cd03842ff07
+Source Model Date : 1465829625 (2016/06/13)
+
+Ported Model Name : cyclopus_v1sc
+Ported Model Hash : 64f3304f551c8cdb570cdbf4205e80e5
+Ported Model Date : 1752491574 (2025/07/14)

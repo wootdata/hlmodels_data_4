@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : battledroid
+Source Model Hash : b745a8585f011fdb15fbadebab440a5d
+Source Model Date : 1267793189 (2010/03/05)
+
+Ported Model Name : battledroid_v1sc
+Ported Model Hash : dd19a5fa44e212cb5c2ae14752bd4d81
+Ported Model Date : 1752491405 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : joanna
+Source Model Hash : cb1b05d1833a50c7061f05edd53712d7
+Source Model Date : 1263927023 (2010/01/19)
+
+Ported Model Name : joanna_v1sc
+Ported Model Hash : 0f7d152a24645fb20f33a9cd45c2c7a1
+Ported Model Date : 1752491863 (2025/07/14)

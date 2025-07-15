@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nagato_bikini
+Source Model Hash : 49e6aef5921594fae2c29971a7bf6c97
+Source Model Date : 1639438139 (2021/12/13)
+
+Ported Model Name : nagato_bikini_v1sc
+Ported Model Hash : f59bb9e8b356c9247cbe60fd39e30028
+Ported Model Date : 1752492058 (2025/07/14)

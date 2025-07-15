@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : acidburn
+Source Model Hash : a2b4b885b8830f60470ddfd17b20c0a3
+Source Model Date : 1430143710 (2015/04/27)
+
+Ported Model Name : acidburn_v1sc
+Ported Model Hash : b5e831a5ad54247fd464c68c8060bd92
+Ported Model Date : 1752491330 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pyrosity
+Source Model Hash : b5c69db1d314faddfddfe417c919e560
+Source Model Date : 1265808887 (2010/02/10)
+
+Ported Model Name : pyrosity_v1sc
+Ported Model Hash : b4832f64b7fb4f76039845506b029252
+Ported Model Date : 1752492174 (2025/07/14)

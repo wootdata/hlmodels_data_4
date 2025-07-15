@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kc_harbour_v3
+Source Model Hash : d5deb7dcbb0a2b045c22ace8e1a6d177
+Source Model Date : 1551222357 (2019/02/26)
+
+Ported Model Name : kc_harbour_v3sc
+Ported Model Hash : 054665cfb9d1b58d868dbfc9c4ee973a
+Ported Model Date : 1752491875 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : barricadeautohd
+Source Model Hash : 551e8ba6fcfe787a68a36c858ce796ef
+Source Model Date : 1327171536 (2012/01/21)
+
+Ported Model Name : barricadeautohd_v1sc
+Ported Model Hash : fa08ba3e4c0a26a8adfd59b80be2b54e
+Ported Model Date : 1752491404 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : opfor_balaclava2
+Source Model Hash : 6affe0c39a1dc034916cae453b7a1425
+Source Model Date : 1540404516 (2018/10/24)
+
+Ported Model Name : opfor_balaclava2_v1sc
+Ported Model Hash : e4c944ee9a17ef0e9985d59b03ec7ee9
+Ported Model Date : 1752492128 (2025/07/14)

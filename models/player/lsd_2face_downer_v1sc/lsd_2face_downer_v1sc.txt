@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lsd_doubleface_downer
+Source Model Hash : 24162b6290d76f98d3c6c23c32a0cd74
+Source Model Date : 1653554516 (2022/05/26)
+
+Ported Model Name : lsd_2face_downer_v1sc
+Ported Model Hash : 07810e9ab448be5de23ea4e75b4a5c2e
+Ported Model Date : 1752491966 (2025/07/14)

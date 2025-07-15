@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dmz_krillin
+Source Model Hash : c033c4a7474c2e545e45946ea986f069
+Source Model Date : 1237589482 (2009/03/20)
+
+Ported Model Name : dmz_krillin_v1sc
+Ported Model Hash : b7a13c48a2c0d82a854a1920e25f435d
+Ported Model Date : 1752491604 (2025/07/14)

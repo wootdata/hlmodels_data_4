@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : marlboro
+Source Model Hash : 1c6b8245a541aa3bf74e6d8dba26e2b4
+Source Model Date : 1615383057 (2021/03/10)
+
+Ported Model Name : marlboro_v1sc
+Ported Model Hash : 1bcb52f17bb204690a522f8b536814a5
+Ported Model Date : 1752491988 (2025/07/14)

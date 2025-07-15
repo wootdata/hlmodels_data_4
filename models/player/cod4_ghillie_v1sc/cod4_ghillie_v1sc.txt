@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cod4_ghillie
+Source Model Hash : 092b103e33937e880ad9815ef69f69e1
+Source Model Date : 1267983290 (2010/03/07)
+
+Ported Model Name : cod4_ghillie_v1sc
+Ported Model Hash : ae39968370baf3815dee17295465c530
+Ported Model Date : 1752491492 (2025/07/14)

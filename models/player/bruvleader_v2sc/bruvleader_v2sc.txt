@@ -1,0 +1,33 @@
+Skinner: SlimReapeR
+Skin Name: bruvleader
+Model Used: Sun Tza by SlimReapeR
+
+This model should only be used by members of the BRUV clan. Have this skin installed
+to see them play! Thsi version of the skin is for the selected leaders
+of the clan
+
+Installation of Plugin
+
+Create a folder called clanbruv in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bruvleader_v2
+Source Model Hash : ce708172de7beabb4b6c7552015edfc0
+Source Model Date : 1582973652 (2020/02/29)
+
+Ported Model Name : bruvleader_v2sc
+Ported Model Hash : b1cb2676df97668b9b673777567ee148
+Ported Model Date : 1752491450 (2025/07/14)

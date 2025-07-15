@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ff7_anim_cloud_v2
+Source Model Hash : 207ffefef2be4d53d77d45279eb8f05e
+Source Model Date : 1583873327 (2020/03/10)
+
+Ported Model Name : ff7_anim_cloud_v2sc
+Ported Model Hash : e1602f78f430b72ab2c7a406cd4dcf06
+Ported Model Date : 1752491650 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sdbarney
+Source Model Hash : f4012c7ca75018bb5bee5890c9e5419c
+Source Model Date : 1089564962 (2004/07/11)
+
+Ported Model Name : sdbarney_v1sc
+Ported Model Hash : b303d04e9b273f6df96bda329489aa7b
+Ported Model Date : 1752492255 (2025/07/14)

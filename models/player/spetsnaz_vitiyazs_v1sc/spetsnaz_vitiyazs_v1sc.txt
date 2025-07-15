@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spetsnaz_vitiyazs
+Source Model Hash : 645f549bd6cd4a528f3e5e2a39d060a6
+Source Model Date : 1523721036 (2018/04/14)
+
+Ported Model Name : spetsnaz_vitiyazs_v1sc
+Ported Model Hash : 53a3902c105357576cbc8c354c81b6b7
+Ported Model Date : 1752492308 (2025/07/14)

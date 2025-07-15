@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : taskforce
+Source Model Hash : 361272eeaf6ebd2e6bfdf014baa83c81
+Source Model Date : 1267284063 (2010/02/27)
+
+Ported Model Name : taskforce_v1sc
+Ported Model Hash : 297ad0e183c6fe59e6c477d49130033d
+Ported Model Date : 1752492361 (2025/07/14)

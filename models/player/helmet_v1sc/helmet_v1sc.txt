@@ -1,0 +1,22 @@
+Credits:
+Romka
+
+
+Place the .mdl file in your
+
+Sven coop models folder.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : helmet
+Source Model Hash : 20aeea978f93c802b8e30d2102d79d23
+Source Model Date : 1107127354 (2005/01/30)
+
+Ported Model Name : helmet_v1sc
+Ported Model Hash : ccdd750f5ab6403863d27289b71aa654
+Ported Model Date : 1752491782 (2025/07/14)

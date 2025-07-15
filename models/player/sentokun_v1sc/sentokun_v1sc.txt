@@ -1,0 +1,31 @@
+------------------------------------------------------
+Sento-kun (Nara city's mascot character)
+for Sven Co-op 5.0 player model
+
+Kimo Kawaii.
+Nice Na Nara.
+
+Animation by Sven Co-op Team
+Model, Skin, Customized animation, Compiled by originaldon
+
+Programs Used: MilkShape 3D, Blender, SAI, EDGE
+Website: http://www.geocities.jp/tepodonsc35/
+
+07-06-2017 updated ver1.1 (Fixed Animation, Skin)
+03-06-2017 completed
+------------------------------------------------------
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sentokun
+Source Model Hash : 08ec4c9efc6b01323890c297df8b7762
+Source Model Date : 1496837958 (2017/06/07)
+
+Ported Model Name : sentokun_v1sc
+Ported Model Hash : cef19871efc930a64366baf3480e5608
+Ported Model Date : 1752492259 (2025/07/14)

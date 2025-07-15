@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : heveinstein
+Source Model Hash : 56705476a124efb36f92f6241d2c76f9
+Source Model Date : 1268834937 (2010/03/17)
+
+Ported Model Name : heveinstein_v1sc
+Ported Model Hash : 40eff1a41e94816c5547fbcdd5db12a0
+Ported Model Date : 1752491785 (2025/07/14)

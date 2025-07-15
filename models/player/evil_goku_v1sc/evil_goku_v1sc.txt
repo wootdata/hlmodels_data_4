@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : evil_goku
+Source Model Hash : 40b83fc974900be077aa4a4029865686
+Source Model Date : 1615991942 (2021/03/17)
+
+Ported Model Name : evil_goku_v1sc
+Ported Model Hash : f1717f0921b1257785fcac1e8657cac6
+Ported Model Date : 1752491640 (2025/07/14)

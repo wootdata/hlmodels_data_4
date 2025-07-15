@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kane
+Source Model Hash : 65f87ba1a44895a84e9e88b8049a20c2
+Source Model Date : 1240340990 (2009/04/21)
+
+Ported Model Name : kane_v1sc
+Ported Model Hash : a7cb2afbc43241ad644d42a5db593120
+Ported Model Date : 1752491871 (2025/07/14)

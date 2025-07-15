@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nav_v2
+Source Model Hash : 03df95741abd0c3c53ebc8c3c78e90db
+Source Model Date : 1583657202 (2020/03/08)
+
+Ported Model Name : nav_v2sc
+Ported Model Hash : a1c091d87d307a5a3cde682be5a8bed2
+Ported Model Date : 1752492076 (2025/07/14)

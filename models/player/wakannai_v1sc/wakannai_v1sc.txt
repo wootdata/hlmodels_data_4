@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wakannai
+Source Model Hash : 4856f15caefb84938d64a65d183fe83f
+Source Model Date : 1242311310 (2009/05/14)
+
+Ported Model Name : wakannai_v1sc
+Ported Model Hash : 3af2eaa140759e1556870ff5707cf693
+Ported Model Date : 1752492501 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : enuze
+Source Model Hash : 5275d50eb022dbd4b2726aab1cd89e7b
+Source Model Date : 1270057199 (2010/03/31)
+
+Ported Model Name : enuze_v1sc
+Ported Model Hash : d98bd8919364692af863e5ee5f7ac9a9
+Ported Model Date : 1752491635 (2025/07/14)

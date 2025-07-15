@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : edf_marine_v2
+Source Model Hash : a0e95da347b076f68a534856ccf74244
+Source Model Date : 1583828696 (2020/03/10)
+
+Ported Model Name : edf_marine_v2sc
+Ported Model Hash : d30e775cae418f8907b004b230ccc1d1
+Ported Model Date : 1752491628 (2025/07/14)

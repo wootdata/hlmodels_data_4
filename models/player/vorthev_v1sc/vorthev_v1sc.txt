@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vorthev
+Source Model Hash : 30b90f63b237d432151d59bb17f1a571
+Source Model Date : 1687263452 (2023/06/20)
+
+Ported Model Name : vorthev_v1sc
+Ported Model Hash : ea5f3f145bdd6fea42537d390ee77371
+Ported Model Date : 1752492496 (2025/07/14)

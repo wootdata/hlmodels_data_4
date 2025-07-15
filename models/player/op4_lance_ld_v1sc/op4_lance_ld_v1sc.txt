@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : op4_lance_ld
+Source Model Hash : da0d98cf43985ede309413e782f44ef1
+Source Model Date : 1603050147 (2020/10/18)
+
+Ported Model Name : op4_lance_ld_v1sc
+Ported Model Hash : d7d4c6ada7db8f0bb2bc8e1bf4d295c4
+Ported Model Date : 1752492120 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ios_brazil2
+Source Model Hash : bdf575c03b86f2e6151ed869aeb74c4e
+Source Model Date : 1261262046 (2009/12/19)
+
+Ported Model Name : ios_brazil2_v1sc
+Ported Model Hash : 6b375cad9cd47ad68769b5059bac0660
+Ported Model Date : 1752491850 (2025/07/14)

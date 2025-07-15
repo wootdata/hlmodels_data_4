@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : whiteface
+Source Model Hash : c26bcbc57a64275fb23f4a4671707226
+Source Model Date : 1263410074 (2010/01/13)
+
+Ported Model Name : whiteface_v1sc
+Ported Model Hash : fa98ef7fca2764cec677d5344ceb7529
+Ported Model Date : 1752492508 (2025/07/14)

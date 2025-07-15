@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_patchouli
+Source Model Hash : e0164d0b8996bdf768edcf08274e988c
+Source Model Date : 1456263250 (2016/02/23)
+
+Ported Model Name : touhou_patchouli_v1sc
+Ported Model Hash : ff7f85fdb11670b06696dd044a41e051
+Ported Model Date : 1752492443 (2025/07/14)

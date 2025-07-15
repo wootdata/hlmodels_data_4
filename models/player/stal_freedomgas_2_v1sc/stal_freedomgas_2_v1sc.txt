@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stalker_freedomgas_2
+Source Model Hash : a4639fcdb99f9cbc43e9e2a47cbb4e6a
+Source Model Date : 1274011883 (2010/05/16)
+
+Ported Model Name : stal_freedomgas_2_v1sc
+Ported Model Hash : be7cbfa206f6e5e9251dfa1c5cbc9357
+Ported Model Date : 1752492333 (2025/07/14)

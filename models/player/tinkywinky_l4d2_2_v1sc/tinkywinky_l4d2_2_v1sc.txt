@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tinkywinky_l4d2_2
+Source Model Hash : 0f348f66ddd4e1969b3f575890cd83fb
+Source Model Date : 1623549611 (2021/06/12)
+
+Ported Model Name : tinkywinky_l4d2_2_v1sc
+Ported Model Hash : fbbfa72d13dbd657e38be7d09a5d5350
+Ported Model Date : 1752492423 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : predator2_v2
+Source Model Hash : 456196505de6a4e4848166f16196380a
+Source Model Date : 1583384602 (2020/03/04)
+
+Ported Model Name : predator2_v2sc
+Ported Model Hash : 4b5fce904d613bd779e9ac4041640261
+Ported Model Date : 1752492167 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mightymousev2
+Source Model Hash : 98b7c2c83dc0abdfd69f5573b17488b6
+Source Model Date : 1269493221 (2010/03/24)
+
+Ported Model Name : mightymousev2_v1sc
+Ported Model Hash : 34de0ddd23f2dcdb2d330c87a1accc8f
+Ported Model Date : 1752492015 (2025/07/14)

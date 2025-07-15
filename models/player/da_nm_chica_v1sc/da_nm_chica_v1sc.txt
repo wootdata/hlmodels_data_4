@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_nm_chica
+Source Model Hash : e23e3ce98138855ec2e81333356de8d0
+Source Model Date : 1462607094 (2016/05/07)
+
+Ported Model Name : da_nm_chica_v1sc
+Ported Model Hash : dd49da4fa0c0373e8e9b1270f146a1ef
+Ported Model Date : 1752491587 (2025/07/14)

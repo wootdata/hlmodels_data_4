@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mario64metal
+Source Model Hash : befc884e45c59251d01fffb5ce0fab0b
+Source Model Date : 1624184518 (2021/06/20)
+
+Ported Model Name : mario64metal_v1sc
+Ported Model Hash : 19a8bb315c8ab4b0295f941bb1165f4e
+Ported Model Date : 1752491986 (2025/07/14)

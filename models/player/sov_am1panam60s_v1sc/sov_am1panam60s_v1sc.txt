@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sovarmy_am1panam60s
+Source Model Hash : fca4f3e100d97c287fd374f2a4685a76
+Source Model Date : 1684191046 (2023/05/15)
+
+Ported Model Name : sov_am1panam60s_v1sc
+Ported Model Hash : 73ea8e5479c2125f52a884873acd2ada
+Ported Model Date : 1752492300 (2025/07/14)

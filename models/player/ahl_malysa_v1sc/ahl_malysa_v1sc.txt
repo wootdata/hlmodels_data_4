@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ahl_malysa
+Source Model Hash : 483b42b6aa701d790bf602142251240e
+Source Model Date : 1694641843 (2023/09/13)
+
+Ported Model Name : ahl_malysa_v1sc
+Ported Model Hash : dd063df764e30f162d3800c986bcdcd6
+Ported Model Date : 1752491343 (2025/07/14)

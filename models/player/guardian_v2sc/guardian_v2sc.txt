@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : guardian_v2
+Source Model Hash : e4fd190a2ebdff6dc24631ea1933fb57
+Source Model Date : 1583884364 (2020/03/10)
+
+Ported Model Name : guardian_v2sc
+Ported Model Hash : ab1862a3dea852034b10b79d23a24084
+Ported Model Date : 1752491754 (2025/07/14)

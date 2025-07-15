@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bank_robber
+Source Model Hash : d70d951a4bf69406881fa2d393c51cd7
+Source Model Date : 1267791333 (2010/03/05)
+
+Ported Model Name : bank_robber_v1sc
+Ported Model Hash : c1f3522f32c2b30b98f58f70f9d40c21
+Ported Model Date : 1752491401 (2025/07/14)

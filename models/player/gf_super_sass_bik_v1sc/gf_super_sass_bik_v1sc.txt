@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gf_super_sass_bikini
+Source Model Hash : 34c82b190ae2b5a66e656d23b3e1e7a1
+Source Model Date : 1643643189 (2022/01/31)
+
+Ported Model Name : gf_super_sass_bik_v1sc
+Ported Model Hash : cdcc444881e55724f5721e98b0d3451b
+Ported Model Date : 1752491695 (2025/07/14)

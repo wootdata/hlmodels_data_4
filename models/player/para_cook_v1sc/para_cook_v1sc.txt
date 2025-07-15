@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : para_cook
+Source Model Hash : e642c05ad29b152017816092d444f723
+Source Model Date : 1265771960 (2010/02/09)
+
+Ported Model Name : para_cook_v1sc
+Ported Model Hash : d5d7a9d03030b6ae494ca7d5c7d21ec3
+Ported Model Date : 1752492145 (2025/07/14)

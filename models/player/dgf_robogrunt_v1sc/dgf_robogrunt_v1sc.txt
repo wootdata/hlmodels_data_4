@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dgf_robogrunt
+Source Model Hash : 9d34739bbcada3407f981ec1be967525
+Source Model Date : 1579695406 (2020/01/22)
+
+Ported Model Name : dgf_robogrunt_v1sc
+Ported Model Hash : 6bf7e26f42195c668f1a1fdfc061c050
+Ported Model Date : 1752491596 (2025/07/14)

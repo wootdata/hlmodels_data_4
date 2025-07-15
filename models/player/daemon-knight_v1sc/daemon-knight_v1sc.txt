@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : daemon-knight
+Source Model Hash : 7ca53436c68b1d413e9430027d6ef4ec
+Source Model Date : 1266829612 (2010/02/22)
+
+Ported Model Name : daemon-knight_v1sc
+Ported Model Hash : bb3c262b4c5abf64586e57919b1849f7
+Ported Model Date : 1752491575 (2025/07/14)

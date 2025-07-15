@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kz_blaze
+Source Model Hash : ad33b7820b0ee5d2e07bf5aaf21899a7
+Source Model Date : 1549088694 (2019/02/01)
+
+Ported Model Name : kz_blaze_v1sc
+Ported Model Hash : a23a960ba790a77667b35aa6e0b61490
+Ported Model Date : 1752491914 (2025/07/14)

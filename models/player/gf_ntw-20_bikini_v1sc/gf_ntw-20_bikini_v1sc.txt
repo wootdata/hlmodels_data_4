@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gf_ntw-20_bikini
+Source Model Hash : 1df3b69a96eb575bbaa78a0b73d2a217
+Source Model Date : 1643736023 (2022/02/01)
+
+Ported Model Name : gf_ntw-20_bikini_v1sc
+Ported Model Hash : a232e521dc3cf5f8a27c1b0368beb72d
+Ported Model Date : 1752491694 (2025/07/14)

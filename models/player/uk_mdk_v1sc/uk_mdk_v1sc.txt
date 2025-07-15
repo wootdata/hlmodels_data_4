@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uk_mdk
+Source Model Hash : 3aa47b85dc4949fa02c4bc7ec703a089
+Source Model Date : 1730717167 (2024/11/04)
+
+Ported Model Name : uk_mdk_v1sc
+Ported Model Hash : 993c1577bd4e55878fffa7d3e82eb750
+Ported Model Date : 1752492474 (2025/07/14)

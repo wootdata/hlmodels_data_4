@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lagretzky
+Source Model Hash : fa37bd8397d23a0b5916ae6f7617cfb5
+Source Model Date : 1264013691 (2010/01/20)
+
+Ported Model Name : lagretzky_v1sc
+Ported Model Hash : dec642e7f8c18ebd25441f2268c3f79c
+Ported Model Date : 1752491937 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sc_poincare2_v2
+Source Model Hash : 196702fdbfc2c5cb4d433a7b832fefa7
+Source Model Date : 1671504753 (2022/12/19)
+
+Ported Model Name : sc_poincare2_v2sc
+Ported Model Hash : deb4234bfdd4d42b2ff2ff5a8aad8c68
+Ported Model Date : 1752492255 (2025/07/14)

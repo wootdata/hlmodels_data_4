@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : thebard_eng
+Source Model Hash : 6db71941e7937638e4856164abe700e7
+Source Model Date : 1497290774 (2017/06/12)
+
+Ported Model Name : thebard_eng_v1sc
+Ported Model Hash : 7ba809006a016246d7a401d1ca69c9f2
+Ported Model Date : 1752492410 (2025/07/14)

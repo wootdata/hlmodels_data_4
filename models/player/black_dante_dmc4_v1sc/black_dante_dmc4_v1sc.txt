@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : black_dante_dmc4
+Source Model Hash : 5d76440e4a919ce3089c660367e3fb22
+Source Model Date : 1579695375 (2020/01/22)
+
+Ported Model Name : black_dante_dmc4_v1sc
+Ported Model Hash : 1e6f56be30424067c997e00dbe4fb628
+Ported Model Date : 1752491434 (2025/07/14)

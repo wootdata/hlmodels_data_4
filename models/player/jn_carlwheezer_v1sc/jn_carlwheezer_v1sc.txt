@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jn_carlwheezer
+Source Model Hash : 11c2c913b67def8fe58a1af0aea40bff
+Source Model Date : 1589654580 (2020/05/16)
+
+Ported Model Name : jn_carlwheezer_v1sc
+Ported Model Hash : 9fa9ea03b07b3112eb98c0de2a5d96c9
+Ported Model Date : 1752491863 (2025/07/14)

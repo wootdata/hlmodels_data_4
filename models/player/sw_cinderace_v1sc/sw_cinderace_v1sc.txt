@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sw_cinderace
+Source Model Hash : 128bb64c4d7c1e76c2e555d707cc6a5a
+Source Model Date : 1610579631 (2021/01/13)
+
+Ported Model Name : sw_cinderace_v1sc
+Ported Model Hash : 8b63afb5cf5265c64bf52a3e42802435
+Ported Model Date : 1752492355 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bradlee_v3
+Source Model Hash : a2a31f0f4cacdf5938564fe30ed2d490
+Source Model Date : 1682021422 (2023/04/20)
+
+Ported Model Name : bradlee_v3sc
+Ported Model Hash : fff9ced5b0094368cc0a18bc5936afb0
+Ported Model Date : 1752491446 (2025/07/14)

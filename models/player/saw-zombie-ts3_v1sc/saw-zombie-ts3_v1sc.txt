@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : saw-zombie-ts3
+Source Model Hash : 30a33beeb07fff1bb86aaa76e5470cdc
+Source Model Date : 1269694755 (2010/03/27)
+
+Ported Model Name : saw-zombie-ts3_v1sc
+Ported Model Hash : ab8306052668b1e97734c2a47c40d82b
+Ported Model Date : 1752492239 (2025/07/14)
