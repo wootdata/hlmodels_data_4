@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1758223619,
+	"date": 1758225747,
 	"events": [
 		{
 			"event": 5005,
@@ -331,8 +331,8 @@
 	"metahook_ragdoll": false,
 	"modid": 14,
 	"name": "hl1teto_V2.mdl",
-	"preview": false,
-	"readme": false,
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

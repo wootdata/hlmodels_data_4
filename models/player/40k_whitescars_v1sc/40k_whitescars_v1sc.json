@@ -178,7 +178,7 @@
 			"type": 8
 		}
 	],
-	"date": 1758223606,
+	"date": 1758225723,
 	"events": [
 		{
 			"event": 5005,
@@ -446,8 +446,8 @@
 	"metahook_ragdoll": false,
 	"modid": 14,
 	"name": "40k_WhiteScars.mdl",
-	"preview": false,
-	"readme": false,
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

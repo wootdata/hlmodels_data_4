@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 40k_whitescars
+Source Model Hash : 88a15ea1c775a475603fc92a82efa067
+Source Model Date : 1740306975 (2025/02/23)
+
+Ported Model Name : 40k_whitescars_v1sc
+Ported Model Hash : ba69b1c5a9496eec5bbb0552cf5cd1c5
+Ported Model Date : 1758225723 (2025/09/18)
