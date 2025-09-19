@@ -1,0 +1,16 @@
+Skinner: SlimReapeR
+Skin Name: clanD
+Model Used: clanD (Modified skeleton model. modified by SlimReapeR)
+
+
+Installation of Plugin
+
+Create a folder called clanD in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+This skin should only be used by members of the Clan *D*. Have this skin in your directory
+to see these guys reap!
+

@@ -1,0 +1,16 @@
+Skinner: SlimReapeR
+Skin Name: Clan Cleaner
+Model Used: s8n (Modified punisher model. modified by SlimReapeR)
+
+
+Installation of Plugin
+
+Create a folder called clancleaner in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+This skin should only be used by players wanting to say "F**k you team working clan w**kers, this is a DM server"
+
+

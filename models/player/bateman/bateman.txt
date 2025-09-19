@@ -1,0 +1,18 @@
+Skinner: SlimReapeR
+Skin Name: Bateman
+Model Used: Modified punisher model
+
+It seems that the RedRazor skin i did was quite popular so i decided
+to make a black one. This is for all you campers out there with your crossbows
+and your dark little corners.
+
+
+Installation of Plugin
+
+Create a folder called bateman in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+
