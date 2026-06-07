@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uma_kitasan_black
+Source Model Hash : dcf49dcaa2d9f7880642ee2e60467763
+Source Model Date : 1778721969 (2026/05/13)
+
+Ported Model Name : uma_kitasan_black_v1sc
+Ported Model Hash : dfe05b546a715d6c1fb0303605649c12
+Ported Model Date : 1780823049 (2026/06/07)
